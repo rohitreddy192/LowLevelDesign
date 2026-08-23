@@ -13,11 +13,7 @@
 ![](../class-diagrams/atm-class-diagram.png)
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/atm/) 
 #### [Python Implementation](../solutions/atm/)
-#### [C++ Implementation](../solutions/cpp/atm/)
-#### [C# Implementation](../solutions/csharp/atm/)
-#### [Go Implementation](../solutions/golang/atm/)
 
 ## Classes, Interfaces and Enumerations
 1. The **Card** class represents an ATM card with a card number and PIN.

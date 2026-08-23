@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In Object-Oriented Programming (OOP), an **interface** is a crucial concept that defines a contract for classes to follow. It allows multiple classes to share a common structure while enforcing certain behaviors. While Python does not have built-in support for interfaces like Java, it achieves the same functionality using **abstract base classes (ABCs)** from the `abc` module.
+In Object-Oriented Programming (OOP), an **interface** is a crucial concept that defines a contract for classes to follow. It allows multiple classes to share a common structure while enforcing certain behaviors. Python does not have built-in support for interfaces, but it achieves the same functionality using **abstract base classes (ABCs)** from the `abc` module.
 
 ## What is an Interface?
 
@@ -112,7 +112,7 @@ FlyingCar is driving...
 
 ## **Default Method Behavior in Interfaces**
 
-Unlike Java, Python does not have **default methods** in interfaces, but we can provide default implementations in base classes.
+Python does not have **default methods** in interfaces, but we can provide default implementations in base classes.
 
 ```python
 from abc import ABC, abstractmethod

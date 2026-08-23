@@ -15,11 +15,7 @@
 ![](../class-diagrams/librarymanagementsystem-class-diagram.png)
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/librarymanagementsystem/) 
 #### [Python Implementation](../solutions/librarymanagementsystem/)
-#### [C++ Implementation](../solutions/cpp/librarymanagementsystem/)
-#### [C# Implementation](../solutions/csharp/librarymanagementsystem/)
-#### [Go Implementation](../solutions/golang/librarymanagementsystem/)
 
 ## Classes, Interfaces and Enumerations
 1. The **Book** class represents a book in the library catalog, with properties such as ISBN, title, author, publication year, and availability status.

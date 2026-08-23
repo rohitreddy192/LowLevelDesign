@@ -14,11 +14,7 @@
 ![](../class-diagrams/tictactoe-class-diagram.png)
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/tictactoe/) 
 #### [Python Implementation](../solutions/tictactoe/)
-#### [C++ Implementation](../solutions/cpp/tictactoe/)
-#### [C# Implementation](../solutions/csharp/tictactoe/)
-#### [Go Implementation](../solutions/golang/tictactoe/)
 
 ## Classes, Interfaces and Enumerations
 1. The **Player** class represents a player in the game, with a name and a symbol (X or O).

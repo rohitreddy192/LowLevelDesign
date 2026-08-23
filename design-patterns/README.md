@@ -1,6 +1,6 @@
 # Design Patterns in Python
 
-This directory contains Python implementations of various design patterns, following the same examples and structure as the Java implementations.
+This directory contains Python implementations of various design patterns.
 
 ## Implemented Patterns
 
@@ -39,27 +39,27 @@ Each pattern directory contains demo files that can be run independently:
 
 ```bash
 # Run adapter pattern demo
-python -m design-patterns.python.adapter.ecommerce_app
+python -m design-patterns.adapter.ecommerce_app
 
 # Run factory pattern demo
-python -m design-patterns.python.factory.factory_method_demo
+python -m design-patterns.factory.factory_method_demo
 
 # Run builder pattern demo
-python -m design-patterns.python.builder.http_app_builder
+python -m design-patterns.builder.http_app_builder
 
 # Run singleton pattern demo
-python -m design-patterns.python.singleton.singleton_demo
+python -m design-patterns.singleton.singleton_demo
 
 # Run observer pattern demo
-python -m design-patterns.python.observer.fitness_app_observer_demo
+python -m design-patterns.observer.fitness_app_observer_demo
 
 # Run strategy pattern demo
-python -m design-patterns.python.strategy.ecommerce_app_demo
+python -m design-patterns.strategy.ecommerce_app_demo
 ```
 
 ## Key Features
 
-- **Same Examples**: Uses identical examples as Java implementations for consistency
+- **Clear Examples**: Uses real-world examples for consistency and clarity
 - **Pythonic Code**: Follows Python conventions and best practices
 - **Type Hints**: Includes type annotations for better code clarity
 - **Separate Files**: Each class is in its own file for better organization
@@ -94,5 +94,5 @@ When adding new patterns or modifying existing ones:
 2. Include comprehensive type hints
 3. Add detailed docstrings
 4. Create meaningful demo examples
-5. Maintain consistency with Java implementations
+5. Maintain consistency across pattern implementations
 6. Include README documentation for each pattern

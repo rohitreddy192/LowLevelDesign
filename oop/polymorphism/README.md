@@ -21,7 +21,7 @@ Polymorphism in Python can be classified into two types:
 
 ## **1. Compile-Time Polymorphism (Method Overloading in Python)**
 
-Unlike Java or C++, Python does not support method overloading in the traditional sense. However, we can achieve similar functionality by using **default parameters** or variable arguments (`*args`).
+Python does not support method overloading in the traditional sense. However, we can achieve similar functionality by using **default parameters** or variable arguments (`*args`).
 
 ### **Example of Method Overloading using Default Arguments**
 

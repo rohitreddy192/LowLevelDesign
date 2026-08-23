@@ -1,4 +1,4 @@
-# Designing a Pub-Sub System in Java
+# Designing a Pub-Sub System
 
 ## Requirements
 1. The Pub-Sub system should allow publishers to publish messages to specific topics.
@@ -13,11 +13,7 @@
 ![](../class-diagrams/pubsubsystem-class-diagram.png)
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/pubsubsystem/)
 #### [Python Implementation](../solutions/pubsubsystem/)
-#### [C++ Implementation](../solutions/cpp/pubsubsystem/)
-#### [C# Implementation](../solutions/csharp/pubsubsystem/)
-#### [Go Implementation](../solutions/golang/pubsubsystem/)
 
 ## Classes, Interfaces and Enumerations
 1. The **Message** class represents a message that can be published and received by subscribers. It contains the message content.

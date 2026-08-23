@@ -1,5 +1,5 @@
 # Designing an Online Auction System
-In this article, we delve into the object-oriented design and implementation of an Online Auction System using Java. 
+In this article, we delve into the object-oriented design and implementation of an Online Auction System. 
 
 This system allows for the creation and management of auctions, user participation in bidding, and handling transactions.
 
