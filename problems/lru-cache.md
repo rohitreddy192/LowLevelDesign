@@ -13,11 +13,7 @@
 ![](../class-diagrams/lrucache-class-diagram.png)
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/lrucache/) 
-#### [Python Implementation](../solutions/python/lrucache/)
-#### [C++ Implementation](../solutions/cpp/lrucache/)
-#### [C# Implementation](../solutions/csharp/lrucache/)
-#### [Go Implementation](../solutions/golang/lrucache/)
+#### [Python Implementation](../solutions/lrucache/)
 
 ## Classes, Interfaces and Enumerations
 1. The **Node** class represents a node in the doubly linked list, containing the key, value, and references to the previous and next nodes.

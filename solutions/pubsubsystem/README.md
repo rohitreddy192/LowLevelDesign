@@ -1,4 +1,4 @@
-# Designing a Pub-Sub System in Java
+# Designing a Pub-Sub System
 
 ## Requirements
 1. The Pub-Sub system should allow publishers to publish messages to specific topics.

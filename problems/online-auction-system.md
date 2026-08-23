@@ -1,5 +1,5 @@
 # Designing an Online Auction System
-In this article, we delve into the object-oriented design and implementation of an Online Auction System using Java. 
+In this article, we delve into the object-oriented design and implementation of an Online Auction System. 
 
 This system allows for the creation and management of auctions, user participation in bidding, and handling transactions.
 
@@ -18,11 +18,7 @@ This system allows for the creation and management of auctions, user participati
 ![](../class-diagrams/onlineauctionsystem-class-diagram.png)
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/onlineauctionsystem/) 
-#### [Python Implementation](../solutions/python/onlineauctionsystem/)
-#### [C++ Implementation](../solutions/cpp/onlineauctionsystem/)
-#### [C# Implementation](../solutions/csharp/onlineauctionsystem/)
-#### [Go Implementation](../solutions/golang/onlineauctionsystem/)
+#### [Python Implementation](../solutions/onlineauctionsystem/)
 
 ## Classes, Interfaces and Enumerations
 1. The **User** class represents a user in the online auction system, with properties such as id, username, and email.

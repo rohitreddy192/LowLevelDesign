@@ -32,11 +32,7 @@
 ![](../class-diagrams/linkedin-class-diagram.png)
 
 ## Implementations
-#### [Java Implementation](../solutions/java/src/linkedin/) 
-#### [Python Implementation](../solutions/python/linkedin/)
-#### [C++ Implementation](../solutions/cpp/linkedin/)
-#### [C# Implementation](../solutions/csharp/linkedin/)
-#### [Go Implementation](../solutions/golang/linkedin/)
+#### [Python Implementation](../solutions/linkedin/)
 
 ## Classes, Interfaces and Enumerations
 1. The **User** class represents a user in the LinkedIn system, containing properties such as ID, name, email, password, profile, connections, inbox, and sent messages.

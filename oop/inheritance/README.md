@@ -124,7 +124,7 @@ class Child2(Parent):
 
 ### **4. Multiple Inheritance**
 
-Unlike Java, Python **supports multiple inheritance**, allowing a subclass to inherit from multiple parent classes.
+Python **supports multiple inheritance**, allowing a subclass to inherit from multiple parent classes.
 
 ```python
 class Parent1:
