@@ -63,8 +63,19 @@ def get_config() -> "Config":
 - ➖ Thread-safety must be handled explicitly.
 - ✅ Guarantees uniqueness and lazy initialization.
 
-**UML:** class with a private constructor, a static `instance` field, and a
-static `getInstance()` accessor.
+**UML:**
+
+```mermaid
+classDiagram
+    class Singleton {
+        -Singleton instance$
+        -Singleton()
+        +getInstance() Singleton$
+        +log(msg) void
+    }
+    Singleton --> Singleton : holds single instance
+    note for Singleton "Private constructor, static instance field, static getInstance() accessor. ($ = static, - = private)"
+```
 
 ---
 

@@ -50,7 +50,17 @@ class InvoicePrinter:
 - Remove the `print_invoice` call → the relationship disappears entirely.
 
 **UML:** dashed arrow pointing to the thing being used.
-`InvoicePrinter ----▷ Invoice`
+
+```mermaid
+classDiagram
+    class InvoicePrinter {
+        +print_invoice(invoice) void
+    }
+    class Invoice {
+        +float amount
+    }
+    InvoicePrinter ..> Invoice : depends on
+```
 
 **Signals you have a Dependency:**
 - Object appears only inside a method signature or body.
@@ -85,7 +95,19 @@ class Patient:
 - **Multiplicity**: `1`, `0..1`, `1..*`, `*` — how many objects on each end.
 
 **UML:** plain solid line (add arrowhead for direction).
-`Doctor ─── Patient`
+
+```mermaid
+classDiagram
+    class Doctor {
+        +String name
+        +List~Patient~ patients
+    }
+    class Patient {
+        +String name
+        +List~Doctor~ doctors
+    }
+    Doctor "1..*" -- "1..*" Patient : treats
+```
 
 > Aggregation and Composition are actually **special, stronger kinds of
 > association** where ownership is involved.
@@ -118,7 +140,18 @@ team = Team("Rockets", [p1, p2])
 container/organizer, not an owner.
 
 **UML:** hollow (unfilled) diamond on the *whole* side.
-`Team ◇─── Player`
+
+```mermaid
+classDiagram
+    class Team {
+        +String name
+        +List~Player~ players
+    }
+    class Player {
+        +String name
+    }
+    Team o-- "1..*" Player : has (weak)
+```
 
 ---
 
@@ -149,7 +182,18 @@ cease to exist.
 **Key tell:** the part is **created inside** the whole and not exposed/shared.
 
 **UML:** filled (solid) diamond on the *whole* side.
-`Car ◆─── Engine`
+
+```mermaid
+classDiagram
+    class Car {
+        -Engine engine
+        +start() void
+    }
+    class Engine {
+        +start() void
+    }
+    Car *-- "1" Engine : owns (strong)
+```
 
 ---
 
