@@ -34,7 +34,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/socialnetworkingservice/) 
-#### [Python Implementation](../solutions/python/socialnetworkingservice/)
+#### [Python Implementation](../solutions/socialnetworkingservice/)
 #### [C++ Implementation](../solutions/cpp/socialnetworkingservice/)
 #### [C# Implementation](../solutions/csharp/socialnetworkingservice/)
 #### [Go Implementation](../solutions/golang/socialnetworkingservice/)

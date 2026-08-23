@@ -16,7 +16,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/ridesharingservice/) 
-#### [Python Implementation](../solutions/python/ridesharingservice/)
+#### [Python Implementation](../solutions/ridesharingservice/)
 #### [C++ Implementation](../solutions/cpp/ridesharingservice/)
 #### [C# Implementation](../solutions/csharp/ridesharingservice/)
 #### [Go Implementation](../solutions/golang/ridesharingservice/)

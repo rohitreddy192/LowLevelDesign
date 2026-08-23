@@ -15,7 +15,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/taskmanagementsystem/) 
-#### [Python Implementation](../solutions/python/taskmanagementsystem/)
+#### [Python Implementation](../solutions/taskmanagementsystem/)
 #### [C++ Implementation](../solutions/cpp/taskmanagementsystem/)
 #### [C# Implementation](../solutions/csharp/taskmanagementsystem/)
 #### [Go Implementation](../solutions/golang/taskmanagementsystem/)

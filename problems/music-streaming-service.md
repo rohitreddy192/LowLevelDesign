@@ -16,7 +16,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/musicstreamingservice/) 
-#### [Python Implementation](../solutions/python/musicstreamingservice/)
+#### [Python Implementation](../solutions/musicstreamingservice/)
 #### [C++ Implementation](../solutions/cpp/musicstreamingservice/)
 #### [C# Implementation](../solutions/csharp/musicstreamingservice/)
 #### [Go Implementation](../solutions/golang/musicstreamingservice/)

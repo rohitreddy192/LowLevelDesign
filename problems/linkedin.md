@@ -33,7 +33,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/linkedin/) 
-#### [Python Implementation](../solutions/python/linkedin/)
+#### [Python Implementation](../solutions/linkedin/)
 #### [C++ Implementation](../solutions/cpp/linkedin/)
 #### [C# Implementation](../solutions/csharp/linkedin/)
 #### [Go Implementation](../solutions/golang/linkedin/)

@@ -14,7 +14,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/lrucache/) 
-#### [Python Implementation](../solutions/python/lrucache/)
+#### [Python Implementation](../solutions/lrucache/)
 #### [C++ Implementation](../solutions/cpp/lrucache/)
 #### [C# Implementation](../solutions/csharp/lrucache/)
 #### [Go Implementation](../solutions/golang/lrucache/)

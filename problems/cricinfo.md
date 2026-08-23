@@ -16,7 +16,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/cricinfo/) 
-#### [Python Implementation](../solutions/python/cricinfo/)
+#### [Python Implementation](../solutions/cricinfo/)
 #### [C++ Implementation](../solutions/cpp/cricinfo/)
 #### [C# Implementation](../solutions/csharp/cricinfo/)
 #### [Go Implementation](../solutions/golang/cricinfo/)

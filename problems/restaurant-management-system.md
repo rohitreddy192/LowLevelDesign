@@ -15,7 +15,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/restaurantmanagementsystem/) 
-#### [Python Implementation](../solutions/python/restaurantmanagementsystem/)
+#### [Python Implementation](../solutions/restaurantmanagementsystem/)
 #### [C++ Implementation](../solutions/cpp/restaurantmanagementsystem/)
 #### [C# Implementation](../solutions/csharp/restaurantmanagementsystem/)
 #### [Go Implementation](../solutions/golang/restaurantmanagementsystem/)

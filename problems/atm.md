@@ -14,7 +14,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/atm/) 
-#### [Python Implementation](../solutions/python/atm/)
+#### [Python Implementation](../solutions/atm/)
 #### [C++ Implementation](../solutions/cpp/atm/)
 #### [C# Implementation](../solutions/csharp/atm/)
 #### [Go Implementation](../solutions/golang/atm/)

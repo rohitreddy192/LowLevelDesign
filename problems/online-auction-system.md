@@ -19,7 +19,7 @@ This system allows for the creation and management of auctions, user participati
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/onlineauctionsystem/) 
-#### [Python Implementation](../solutions/python/onlineauctionsystem/)
+#### [Python Implementation](../solutions/onlineauctionsystem/)
 #### [C++ Implementation](../solutions/cpp/onlineauctionsystem/)
 #### [C# Implementation](../solutions/csharp/onlineauctionsystem/)
 #### [Go Implementation](../solutions/golang/onlineauctionsystem/)

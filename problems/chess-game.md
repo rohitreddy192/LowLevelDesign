@@ -16,7 +16,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/chessgame/) 
-#### [Python Implementation](../solutions/python/chessgame/)
+#### [Python Implementation](../solutions/chessgame/)
 #### [C++ Implementation](../solutions/cpp/chessgame/)
 #### [C# Implementation](../solutions/csharp/chessgame/)
 #### [Go Implementation](../solutions/golang/chessgame/)

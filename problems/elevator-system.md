@@ -15,7 +15,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/elevatorsystem/) 
-#### [Python Implementation](../solutions/python/elevatorsystem/)
+#### [Python Implementation](../solutions/elevatorsystem/)
 #### [C++ Implementation](../solutions/cpp/elevatorsystem/)
 #### [C# Implementation](../solutions/csharp/elevatorsystem/)
 #### [Go Implementation](../solutions/golang/elevatorsystem/)

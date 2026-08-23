@@ -15,7 +15,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/courseregistrationsystem/) 
-#### [Python Implementation](../solutions/python/courseregistrationsystem/)
+#### [Python Implementation](../solutions/courseregistrationsystem/)
 #### [C++ Implementation](../solutions/cpp/courseregistrationsystem/)
 #### [C# Implementation](../solutions/csharp/courseregistrationsystem/)
 #### [Go Implementation](../solutions/golang/courseregistrationsystem/)

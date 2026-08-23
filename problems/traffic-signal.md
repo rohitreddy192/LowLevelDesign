@@ -14,7 +14,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/trafficsignalcontrolsystem/)
-#### [Python Implementation](../solutions/python/trafficsignalsystem/)
+#### [Python Implementation](../solutions/trafficsignalsystem/)
 #### [C++ Implementation](../solutions/cpp/trafficsignalsystem/)
 #### [C# Implementation](../solutions/csharp/trafficsignalsystem/)
 #### [Go Implementation](../solutions/golang/trafficsignalsystem/)

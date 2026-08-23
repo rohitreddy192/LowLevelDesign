@@ -16,7 +16,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/digitalwalletservice/) 
-#### [Python Implementation](../solutions/python/digitalwalletservice/)
+#### [Python Implementation](../solutions/digitalwalletservice/)
 #### [C++ Implementation](../solutions/cpp/digitalwalletservice/)
 #### [C# Implementation](../solutions/csharp/digitalwalletservice/)
 #### [Go Implementation](../solutions/golang/digitalwalletservice/)

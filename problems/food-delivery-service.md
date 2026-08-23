@@ -16,7 +16,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/fooddeliveryservice/) 
-#### [Python Implementation](../solutions/python/fooddeliveryservice/)
+#### [Python Implementation](../solutions/fooddeliveryservice/)
 #### [C++ Implementation](../solutions/cpp/fooddeliveryservice/)
 #### [C# Implementation](../solutions/csharp/fooddeliveryservice/)
 #### [Go Implementation](../solutions/golang/fooddeliveryservice/)

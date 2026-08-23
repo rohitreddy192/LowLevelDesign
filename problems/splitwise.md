@@ -16,7 +16,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/splitwise/)
-#### [Python Implementation](../solutions/python/splitwise/)
+#### [Python Implementation](../solutions/splitwise/)
 #### [C++ Implementation](../solutions/cpp/splitwise/)
 #### [C# Implementation](../solutions/csharp/splitwise/)
 #### [Go Implementation](../solutions/golang/splitwise/)

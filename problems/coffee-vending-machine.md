@@ -15,7 +15,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/coffeevendingmachine/) 
-#### [Python Implementation](../solutions/python/coffeevendingmachine/)
+#### [Python Implementation](../solutions/coffeevendingmachine/)
 #### [C++ Implementation](../solutions/cpp/coffeevendingmachine/)
 #### [C# Implementation](../solutions/csharp/coffeevendingmachine/)
 #### [Go Implementation](../solutions/golang/coffeevendingmachine/)

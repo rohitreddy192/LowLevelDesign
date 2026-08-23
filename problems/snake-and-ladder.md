@@ -16,7 +16,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/snakeandladdergame/) 
-#### [Python Implementation](../solutions/python/snakeandladdergame/)
+#### [Python Implementation](../solutions/snakeandladdergame/)
 #### [C++ Implementation](../solutions/cpp/snakeandladdergame/)
 #### [C# Implementation](../solutions/csharp/snakeandladdergame/)
 #### [Go Implementation](../solutions/golang/snakeandladdergame/)

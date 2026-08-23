@@ -15,7 +15,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/tictactoe/) 
-#### [Python Implementation](../solutions/python/tictactoe/)
+#### [Python Implementation](../solutions/tictactoe/)
 #### [C++ Implementation](../solutions/cpp/tictactoe/)
 #### [C# Implementation](../solutions/csharp/tictactoe/)
 #### [Go Implementation](../solutions/golang/tictactoe/)

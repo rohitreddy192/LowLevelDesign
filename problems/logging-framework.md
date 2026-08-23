@@ -14,7 +14,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/loggingframework/) 
-#### [Python Implementation](../solutions/python/loggingframework/)
+#### [Python Implementation](../solutions/loggingframework/)
 #### [C++ Implementation](../solutions/cpp/loggingframework/)
 #### [C# Implementation](../solutions/csharp/loggingframework/)
 #### [Go Implementation](../solutions/golang/loggingframework/)

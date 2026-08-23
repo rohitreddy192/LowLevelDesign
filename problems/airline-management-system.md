@@ -19,7 +19,7 @@
 
 #### [Java Implementation](../solutions/java/src/airlinemanagementsystem/)
 
-#### [Python Implementation](../solutions/python/airlinemanagementsystem/)
+#### [Python Implementation](../solutions/airlinemanagementsystem/)
 
 #### [C++ Implementation](../solutions/cpp/airlinemanagementsystem/)
 

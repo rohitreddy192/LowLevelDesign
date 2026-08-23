@@ -14,7 +14,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/stackoverflow/) 
-#### [Python Implementation](../solutions/python/stackoverflow/)
+#### [Python Implementation](../solutions/stackoverflow/)
 #### [C++ Implementation](../solutions/cpp/stackoverflow/)
 #### [C# Implementation](../solutions/csharp/stackoverflow/)
 #### [Go Implementation](../solutions/golang/stackoverflow/)

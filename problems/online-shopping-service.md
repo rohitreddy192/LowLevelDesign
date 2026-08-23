@@ -16,7 +16,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/onlineshoppingservice/)
-#### [Python Implementation](../solutions/python/onlineshoppingservice/)
+#### [Python Implementation](../solutions/onlineshoppingservice/)
 #### [C++ Implementation](../solutions/cpp/onlineshoppingservice/)
 #### [C# Implementation](../solutions/csharp/onlineshoppingservice/)
 #### [Go Implementation](../solutions/golang/onlineshoppingservice/)

@@ -16,7 +16,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/movieticketbookingsystem/) 
-#### [Python Implementation](../solutions/python/movieticketbookingsystem/)
+#### [Python Implementation](../solutions/movieticketbookingsystem/)
 #### [C++ Implementation](../solutions/cpp/movieticketbookingsystem/)
 #### [C# Implementation](../solutions/csharp/movieticketbookingsystem/)
 #### [Go Implementation](../solutions/golang/movieticketbookingsystem/)

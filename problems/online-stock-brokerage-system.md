@@ -16,7 +16,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/onlinestockbrokeragesystem/) 
-#### [Python Implementation](../solutions/python/onlinestockbrokeragesystem/)
+#### [Python Implementation](../solutions/onlinestockbrokeragesystem/)
 #### [C++ Implementation](../solutions/cpp/onlinestockbrokeragesystem/)
 #### [C# Implementation](../solutions/csharp/onlinestockbrokeragesystem/)
 #### [Go Implementation](../solutions/golang/onlinestockbrokeragesystem/)

@@ -14,7 +14,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/pubsubsystem/)
-#### [Python Implementation](../solutions/python/pubsubsystem/)
+#### [Python Implementation](../solutions/pubsubsystem/)
 #### [C++ Implementation](../solutions/cpp/pubsubsystem/)
 #### [C# Implementation](../solutions/csharp/pubsubsystem/)
 #### [Go Implementation](../solutions/golang/pubsubsystem/)

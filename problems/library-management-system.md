@@ -16,7 +16,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/librarymanagementsystem/) 
-#### [Python Implementation](../solutions/python/librarymanagementsystem/)
+#### [Python Implementation](../solutions/librarymanagementsystem/)
 #### [C++ Implementation](../solutions/cpp/librarymanagementsystem/)
 #### [C# Implementation](../solutions/csharp/librarymanagementsystem/)
 #### [Go Implementation](../solutions/golang/librarymanagementsystem/)

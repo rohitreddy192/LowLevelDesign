@@ -14,7 +14,7 @@
 
 ## Implementations
 #### [Java Implementation](../solutions/java/src/parkinglot/) 
-#### [Python Implementation](../solutions/python/parkinglot/)
+#### [Python Implementation](../solutions/parkinglot/)
 #### [C++ Implementation](../solutions/cpp/parkinglot/)
 #### [C# Implementation](../solutions/csharp/parkinglot/)
 #### [Go Implementation](../solutions/golang/parkinglot/)
