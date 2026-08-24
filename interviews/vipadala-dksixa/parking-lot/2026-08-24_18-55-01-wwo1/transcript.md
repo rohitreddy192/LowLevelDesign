@@ -310,4 +310,8 @@ class NearToExit(ParkingStrategy):
 if __name__ == "__main__":
     Solution().run()
 
-**Interviewer:** 
+**Interviewer:** Looking at `ParkingLotStrategy`, notice how it checks `if instanceof(strategy, NearToEntry):`. That violates the Open/Closed Principle because adding a new strategy would require modifying this `if/else` block. 
+
+To make it truly polymorphic, why not let `ParkingStrategy.find_spot()` accept the entire `ParkingLot` (or list of floors) directly, so each concrete strategy decides how to search across floors?
+
+Also, imagine two entry gates call `park()` at the exact same time and both identify the same empty spot. How would you prevent a double-booking race condition here?
